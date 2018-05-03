@@ -1,0 +1,9 @@
+<resources>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_black">#767676</color>
+    
+    <color name="text_color_white">#FFFFFF</color>
+    <color name="text_color_yellow">#FFC639</color>
+    <color name="text_color_black">#4F4F4F</color>
+    <color name="text_color_word">#1E90FF</color>
+</resources>

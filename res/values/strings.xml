@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Cavs</string>
+    
+    <string name="menu_light">光线</string>
+    <string name="menu_accelerometer">计步器</string>
+    <string name="menu_location">定位</string>
+    <string name="menu_temperature">温度</string>
+
+</resources>
